@@ -1,7 +1,7 @@
 # SomaliFaker
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/abdirizack/somali-faker.svg?style=flat-square)](https://packagist.org/packages/abdirizack/somali-faker)
-[![Total Downloads](https://img.shields.io/packagist/dt/abdirizack/somali-faker.svg?style=flat-square)](https://packagist.org/packages/abdirizack/somali-faker)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/abdirazack/somali-faker.svg?style=flat-square)](https://packagist.org/packages/abdirazack/somali-faker)
+[![Total Downloads](https://img.shields.io/packagist/dt/abdirazack/somali-faker.svg?style=flat-square)](https://packagist.org/packages/abdirazack/somali-faker)
 
 A comprehensive Laravel package to generate fake Somali data using [FakerPHP/Faker](https://github.com/FakerPHP/Faker).
 
