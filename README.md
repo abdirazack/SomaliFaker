@@ -7,7 +7,7 @@ A comprehensive Laravel package to generate fake Somali data using Faker.
 You can install the package via composer:
 
 ```bash
-composer require somali-faker/somali-faker
+composer require abdirazack/somali-faker
 ```
 
 The package will automatically register itself.
