@@ -1,5 +1,5 @@
 {
-    "name": "somali-faker/somali-faker",
+    "name": "abdirazack/somali-faker",
     "description": "A comprehensive Laravel package to generate fake Somali data using Faker.",
     "license": "MIT",
     "require": {
